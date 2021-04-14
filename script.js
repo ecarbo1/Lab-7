@@ -9,4 +9,4 @@ function init(){
 	}
 	entry.addEventListener('click', myScript);
 }
-window.addEventListener('load, init);
+window.addEventListener('load', init);
